@@ -6,9 +6,9 @@ Authors: Timothée Bigot*, Elisa Gabinaud, Laurent Hannouche, Véronique Sbarra,
 
 /*/ Corresponding authors 
 
-Link to the article. 
+https://pubmed.ncbi.nlm.nih.gov/37085035/ 
 
-Citation:
+Citation: Bigot T, Gabinaud E, Hannouche L, Sbarra V, Andersen E, Bastelica D, Falaise C, Bernot D, Ibrahim-Kosta M, Morange PE, Loosveld M, Saultier P, Payet-Bornet D, Alessi MC, Potier D, Poggi M. Single-cell analysis of megakaryopoiesis in peripheral CD34+ cells: insights into ETV6-related thrombocytopenia. J Thromb Haemost. 2023 Sep;21(9):2528-2544. doi: 10.1016/j.jtha.2023.04.007. Epub 2023 Apr 20. PMID: 37085035.
 
 ## Overview 
 
